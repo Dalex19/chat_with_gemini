@@ -1,16 +1,14 @@
-# chat_with_gemini
+# Chat con Gemini IA
 
-A new Flutter project.
+Proyecto el cual es un chat con la ia de google (gemini), donde además de la interacción y los cambios de estado (writing, active now), agregue una sección para mensajes favoritos, usando una manejador de estados en la app. 
 
-## Getting Started
+[Diseño de referencia](https://dribbble.com/shots/22212574-Chat-UI-UX).
 
-This project is a starting point for a Flutter application.
+### Uso de:
+- Widgets Reutilizables
+- Manejo de de estados (Multi Providers)
+- Peticiones Get.
+- Paquetes externos
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Vistas
+[Video](https://www.linkedin.com/posts/alex-linarte_flutterbeginner-flutter-mobiledevelopment-activity-7187307852187729920-AsbJ?utm_source=share&utm_medium=member_desktop)
